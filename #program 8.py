@@ -1,4 +1,4 @@
-#python 8
+#program 8
 rad =float(input("Enter rad:   "))
 pi = 3.14159
 print("Diameter = %f"%(2*rad))
